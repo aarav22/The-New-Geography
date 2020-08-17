@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".OtherTutorialActivity"
+    tools:showIn="@layout/activity_korea_solution">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:text="@string/south_korea_writeup"
+        android:background="@drawable/app_bg"
+        android:textAllCaps="false"
+        android:fontFamily="@font/arlrdbd"
+        android:textColor="#34385D"
+        android:textSize="28dp"
+        />
+
+
+</androidx.core.widget.NestedScrollView>
