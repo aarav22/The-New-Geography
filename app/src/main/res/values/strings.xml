@@ -1,9 +1,8 @@
 <resources>
     <string name="app_name">The New Geography</string>
     <string name="title_activity_tutorial_maps">Map</string>
-    <string name="api_key">AIzaSyBIuSi6L_14OR8d0L76bMx_vtseh2AGe90</string>
+    <string name="api_key">ENTER_YOUR_OWN_API</string>
     <string name="title_activity_solution_maps">Map</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoiYWFyYXYyMiIsImEiOiJja2RjdW94eGEwb3BmMnpuYjlyYTl0dXhjIn0.1-R2yPya2mkpsp8WlDJP9w</string>
     <string name="access_token" translatable="false">pk.eyJ1IjoiYWFyYXYyMiIsImEiOiJja2RjdW94eGEwb3BmMnpuYjlyYTl0dXhjIn0.1-R2yPya2mkpsp8WlDJP9w</string>
     <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
     <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
