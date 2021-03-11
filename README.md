@@ -1,2 +1,2 @@
 # The-New-Geography
-APIs are removed, enter your own APIs
+Please note that API tokens are removed, enter tokens before using. 
